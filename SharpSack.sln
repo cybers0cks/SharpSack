@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSack", "SharpSack\SharpSack.csproj", "{1946808A-1A01-40C5-947B-8B4C3377F742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1946808A-1A01-40C5-947B-8B4C3377F742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1946808A-1A01-40C5-947B-8B4C3377F742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1946808A-1A01-40C5-947B-8B4C3377F742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1946808A-1A01-40C5-947B-8B4C3377F742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {055F90C9-E12A-4543-A0FC-5648B0AA05C3}
+	EndGlobalSection
+EndGlobal
